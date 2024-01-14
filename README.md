@@ -73,3 +73,11 @@ Example:
 3 stands for ICAUPR
 4 stands for DPAUPR
 ```
+
+## Contact
+Please feel free to contact us for any further questions.
+- Wenkang Wang wangwk@csu.edu.cn
+- Min Li limin@mail.csu.edu.cn
+
+## References
+A comprehensive computational benchmark for evaluating deep learning-based protein function prediction approaches.
